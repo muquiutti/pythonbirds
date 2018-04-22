@@ -53,3 +53,8 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+oo/__init__.py
+oo/carro.py
+oo/pessoa.py
+oo/test.py
+oo/test_carro.py
